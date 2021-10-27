@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "attendance-data-327601",
-  "private_key_id": "dfb6db8ae2d3cbdc87beb276d27f6d022d30c797",
+  "project_id": "YOUR PROJECT ID",
+  "private_key_id": "YOUR PRIVATE KEY ID",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYIyxY00O8vu7e\nEBtzpPBrFwgFzGv6EjMDHyWWp8XLs3CL3x3RLfWWD4cG0uHFzr56LHM5FzqBc5Xu\n0GHKioRKDxrKlTJ/JmCUaJURvsOGirgMS2jCw3mHiPjS80LC099BHFwI2OQdvTnv\nkLQVItKU4Ng2h58ZOtWfktNy0igB+yJC43zTrA84gqibyNhxF9ve3lu7I3N3AJSp\naSLCoWFwfVs/XNf6ALOt3sLWU4Ajkw5up8dCxPxoMPYhqAWz9kRklQLBIU2CIzC9\ngtFbX5Z905edNgllOmFRYoSXbixSvhc7E4doP9siZvpw7iohCelLn6gHqv1pUK0n\niiP5XvyhAgMBAAECggEAMDpqOwhR/1oJsBSsFydw3YnyDaCFlENDr5gmmtE5pz8N\njRGgSqkGotjuRZABaWsGQAWqSy1dax8gpxGhBouNr0qFhDXyyZL5Z+KVawgtxI9i\nE+et4JwGARy/QGRERC3VJrdeR6G2AuVzIcoeBFtDJVX3xKWOnnljsg/h/xK3AxVD\n4gO3dgyHWcvp9rjEx4YtOKtM3cjPLjFJsrIb+CHAiQ0TSKLecDqzLIdiWkK2qyKq\ntg9wIvA6KhR6YiX6j6GgGsAM0agDh2XgNEOgwoHIkpruvDVL9XNukNvj+AGClWQI\nnI+7iq9n3e6xkJVoA909h0XqutixuytjTb6sc6W0FwKBgQDFfNYQE8BJ29GZI9qK\nOX0aaeNcr1vmMKpSktZE/SrmkLyNn896YyIqWKlJTrJof9G3He6LiInC32EC+x0v\nB3kjXumJ2n6zs2T5E4/Q5aphCsxQLdLT0GEBn07eE4Qpj+tr+GqXa0XHTIxeZRP6\nuYICvpd8allwPy98qAlEuTgk6wKBgQDFNpVxm4cIMAOkAT2TA78+sH8XAvxF2VwY\nFPyLsK2+Ng53SPygxmNe/BmiWGdSD6Tz3byv8JFbDzJP8P3h3Gno2+uXC25rjqme\nns5MwEZv9N+lib6NQDpLPkqr1WavjnoMMrE3efrqLQ0hcW5FsSP8v8s+QTkrxYLe\nLyA9KQuxowKBgQCCFZ3njysNO6ePqUdN31phqLgkGDp/oTTAGYrcfKrinxoka809\n/8jEfgxchmMMZI2egi/cZ37fB0cesIxjqxeHTgClVnA5LITpcJI99tpI+9TjR5vk\n/BC6Adbwf4iB3BQl1cdYoEehZPHdR9VmRQW3ixW71U2+m1BLW2BnjV3HKwKBgQCk\nbA3M2k6KlP10D1S27bjVG3HaTbLmyYHu0hB8pqE0pP0Klt+Ja94No0H8CJib4k80\nwvo99eQ6d0ELRXFmjc3/Rtv04qL9KcRhayW099nCHfcYnO8x9QqlERpQiWtDkxZO\ndTUre5enBkicSWYW1MmcQIvDK73usI2bkM7gLwiA4QKBgBKLZXSit0BhOG1/KyzR\n0dwKCnr6oB7LK3roCodIX6eDmblF400Ej9UWkjMiFw3DO1TZORUc5jny/bwA/ItB\nAM00mnkUEeaRWyVjJsqxhO1y9Td40xxU9CsU45NlbZKF0pmKL9OxTjFn0e2stMj2\noMwByMD+QZ03jFU62xn8PBDk\n-----END PRIVATE KEY-----\n",
-  "client_email": "myraspi@attendance-data-327601.iam.gserviceaccount.com",
+  "client_email": "CLIENT EMAIL",
   "client_id": "106742177962714144161",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myraspi%40attendance-data-327601.iam.gserviceaccount.com"
+  "client_x509_cert_url": "YOUR CLIENT CERT URL"
 }
